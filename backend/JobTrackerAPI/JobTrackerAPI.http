@@ -5,13 +5,13 @@ POST {{JobTrackerAPI_HostAddress}}/api/JobApplications
 Content-Type: application/json
 
 {
-  "company": "Bouvet",
+  "company": "Eksempel AS",
   "position": "Juniorutvikler",
   "location": "Oslo",
   "dateApplied": "2026-09-16",
   "deadline": "2026-10-03",
   "status": "Applied",
-  "notes": "Test"
+  "notes": "Eksempel på jobbsøknad"
 }
 
 ###
