@@ -1,0 +1,22 @@
+# .NET / Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
